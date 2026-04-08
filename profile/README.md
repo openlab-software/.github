@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/openlab-logo-slogan.png" alt="OpenLab Logo"  style="border-radius: 16px;" />
+<img src="../assets/openlab-logo-slogan.png" alt="OpenLab Logo"  style="border-radius: 16px;" />
 
 # 🔬 OpenLab
 
